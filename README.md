@@ -9,9 +9,8 @@ Features
 
 Technologies Involved
 - React.js
-- React Material UI
+- React Material UI or Bootstrap
 - Django
 - Javascript
 - Chart.js
-- Bootstrap
 - Adobe XD
