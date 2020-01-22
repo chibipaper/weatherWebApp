@@ -9,6 +9,7 @@ Features
 
 Technologies Involved
 - React.js
+- React Material UI
 - Django
 - Javascript
 - Chart.js
